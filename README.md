@@ -15,6 +15,11 @@ Exploration of the NexRad dataset:
 
 Plotting of NexRad locations:
 
+## Architecture
+
+<img src="https://raw.githubusercontent.com/BigDataIA-Spring2023-Team06/Documentation/main/pasted%20image%200.png" width="500">
+
+
 ## File Structure
 #### 🚀 Production Master Branch
 ```
